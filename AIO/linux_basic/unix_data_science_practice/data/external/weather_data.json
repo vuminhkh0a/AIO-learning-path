@@ -1,0 +1,17 @@
+{
+  "location": "Hanoi, Vietnam",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "current": {
+    "temperature": 28.5,
+    "humidity": 72,
+    "pressure": 1013.2,
+    "description": "partly cloudy"
+  },
+  "forecast": [
+    {"date": "2024-06-20", "temp_min": 24.1, "temp_max": 32.3, "humidity": 68, "precipitation": 0.2},
+    {"date": "2024-06-21", "temp_min": 25.2, "temp_max": 31.8, "humidity": 74, "precipitation": 5.1},
+    {"date": "2024-06-22", "temp_min": 23.9, "temp_max": 29.7, "humidity": 81, "precipitation": 12.3},
+    {"date": "2024-06-23", "temp_min": 22.5, "temp_max": 28.4, "humidity": 79, "precipitation": 8.7},
+    {"date": "2024-06-24", "temp_min": 24.8, "temp_max": 33.1, "humidity": 66, "precipitation": 0.0}
+  ]
+}

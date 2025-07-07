@@ -1,0 +1,30 @@
+{
+  "user_analytics": {
+    "total_users": 15,
+    "active_users_today": 12,
+    "new_signups_this_month": 3,
+    "churn_rate": 8.5,
+    "engagement_metrics": [
+      {"date": "2024-06-20", "page_views": 145, "unique_visitors": 12, "bounce_rate": 32.1},
+      {"date": "2024-06-21", "page_views": 189, "unique_visitors": 15, "bounce_rate": 28.7},
+      {"date": "2024-06-22", "page_views": 167, "unique_visitors": 13, "bounce_rate": 35.2}
+    ]
+  },
+  "sales_summary": {
+    "total_revenue": 8956.43,
+    "total_orders": 15,
+    "average_order_value": 597.09,
+    "conversion_rate": 23.4,
+    "top_categories": [
+      {"category": "Electronics", "revenue": 4825.62, "orders": 8},
+      {"category": "Books", "revenue": 328.91, "orders": 4},
+      {"category": "Clothing", "revenue": 387.08, "orders": 3}
+    ]
+  },
+  "product_performance": [
+    {"product_id": "P301", "name": "Smartphone", "category": "Electronics", "sales": 899.99, "views": 234, "conversion": 12.8},
+    {"product_id": "P302", "name": "Laptop", "category": "Electronics", "sales": 1299.99, "views": 189, "conversion": 15.3},
+    {"product_id": "P101", "name": "Wireless Headphones", "category": "Electronics", "sales": 150.00, "views": 456, "conversion": 8.7},
+    {"product_id": "P207", "name": "Machine Learning Book", "category": "Books", "sales": 65.99, "views": 78, "conversion": 4.2}
+  ]
+}

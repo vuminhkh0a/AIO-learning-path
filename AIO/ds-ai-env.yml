@@ -1,0 +1,36 @@
+name: ds-ai-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - catboost
+  - opencv
+  - pillow
+  - nltk
+  - spacy
+  - transformers
+  - datasets
+  - pytorch
+  - torchvision
+  - torchaudio
+  - tensorflow
+  - keras
+  - notebook
+  - jupyterlab
+  - ipykernel
+  - tqdm
+  - plotly
+  - shap
+  - joblib
+  - openpyxl
+  - pyarrow
+  - fastparquet

@@ -1,0 +1,8 @@
+apple,red,sweet,5.99
+BANANA,yellow,sweet,2.99
+Cherry,red,sour,8.99
+date,brown,sweet,12.99
+Elderberry,purple,tart,15.99
+fig,purple,sweet,7.99
+GRAPE,green,sweet,4.99
+honeydew,green,sweet,6.99

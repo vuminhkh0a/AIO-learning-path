@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,age,city,state,signup_date,last_login,subscription_tier,total_spent
+C001,Alice,Johnson,alice.j@email.com,28,New York,NY,2023-01-15,2024-06-20,premium,2150.75
+C002,Bob,Smith,bob.smith@email.com,34,Los Angeles,CA,2023-02-20,2024-06-15,basic,890.50
+C003,Carol,Brown,c.brown@email.com,25,Chicago,IL,2023-03-10,2024-05-30,premium,3200.00
+C004,David,Wilson,d.wilson@email.com,45,Houston,TX,2023-01-25,2024-06-22,basic,1200.25
+C005,Eva,Davis,eva.d@email.com,31,Phoenix,AZ,2023-04-05,2024-04-10,premium,1875.60
+C006,Frank,Miller,f.miller@email.com,29,Philadelphia,PA,2023-02-15,2024-06-18,basic,650.80
+C007,Grace,Lee,grace.lee@email.com,38,San Antonio,TX,2023-01-30,2024-06-19,premium,2890.45
+C008,Henry,Taylor,h.taylor@email.com,42,San Diego,CA,2023-03-20,2024-03-25,basic,425.90
+C009,Ivy,Chen,ivy.chen@email.com,27,Dallas,TX,2023-05-01,2024-06-21,premium,1680.30
+C010,Jack,Brown,j.brown@email.com,33,San Jose,CA,2023-02-10,2024-06-17,basic,780.15
+C011,Karen,White,k.white@email.com,29,Austin,TX,2023-06-01,2024-06-23,premium,1950.80
+C012,Leo,Garcia,leo.g@email.com,35,Jacksonville,FL,2023-01-08,2024-06-16,basic,520.40
+C013,Maria,Rodriguez,m.rodriguez@email.com,26,San Francisco,CA,2023-04-15,2024-06-14,premium,2750.65
+C014,Nick,Anderson,nick.a@email.com,41,Columbus,OH,2023-03-05,2024-05-20,basic,890.70
+C015,Olivia,Thomas,o.thomas@email.com,30,Charlotte,NC,2023-02-28,2024-06-19,premium,2100.90

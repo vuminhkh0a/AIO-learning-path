@@ -1,0 +1,17 @@
+2024-06-20 09:00:01 INFO Starting model training: RandomForestClassifier
+2024-06-20 09:00:02 INFO Dataset loaded: 10000 samples, 15 features
+2024-06-20 09:00:05 INFO Train/test split: 8000/2000 samples
+2024-06-20 09:00:10 INFO Epoch 1/10 - accuracy: 0.72, precision: 0.68, recall: 0.75, f1: 0.71
+2024-06-20 09:02:15 INFO Epoch 2/10 - accuracy: 0.78, precision: 0.74, recall: 0.82, f1: 0.78
+2024-06-20 09:04:20 INFO Epoch 3/10 - accuracy: 0.83, precision: 0.79, recall: 0.87, f1: 0.83
+2024-06-20 09:06:25 INFO Epoch 4/10 - accuracy: 0.85, precision: 0.82, recall: 0.88, f1: 0.85
+2024-06-20 09:08:30 INFO Epoch 5/10 - accuracy: 0.87, precision: 0.84, recall: 0.90, f1: 0.87
+2024-06-20 09:10:35 WARN Epoch 6/10 - accuracy: 0.86, precision: 0.83, recall: 0.89, f1: 0.86 (slight decrease)
+2024-06-20 09:12:40 INFO Epoch 7/10 - accuracy: 0.88, precision: 0.85, recall: 0.91, f1: 0.88
+2024-06-20 09:14:45 INFO Epoch 8/10 - accuracy: 0.89, precision: 0.86, recall: 0.92, f1: 0.89
+2024-06-20 09:16:50 WARN Epoch 9/10 - accuracy: 0.88, precision: 0.85, recall: 0.91, f1: 0.88 (overfitting detected)
+2024-06-20 09:18:55 INFO Epoch 10/10 - accuracy: 0.87, precision: 0.84, recall: 0.90, f1: 0.87
+2024-06-20 09:19:00 INFO Training completed. Best model: Epoch 8 (accuracy: 0.89)
+2024-06-20 09:19:05 INFO Model saved: models/random_forest_20240620.pkl
+2024-06-20 09:19:10 INFO Feature importance calculated and saved
+2024-06-20 09:19:15 INFO Cross-validation score: 0.86 ± 0.03

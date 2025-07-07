@@ -1,0 +1,16 @@
+transaction_id,customer_id,product_id,product_name,category,quantity,unit_price,total_amount,transaction_date,payment_method
+T001,C001,P101,Wireless Headphones,Electronics,1,150.00,150.00,2024-06-20,credit_card
+T002,C002,P205,Python Programming Book,Books,2,25.99,51.98,2024-06-15,paypal
+T003,C003,P301,Smartphone,Electronics,1,899.99,899.99,2024-05-30,credit_card
+T004,C001,P150,USB Cable,Electronics,3,15.00,45.00,2024-06-18,credit_card
+T005,C004,P401,Business Shirt,Clothing,2,89.99,179.98,2024-06-22,debit_card
+T006,C005,P102,Bluetooth Speaker,Electronics,1,89.95,89.95,2024-04-10,credit_card
+T007,C006,P206,Data Science Handbook,Books,1,45.50,45.50,2024-06-18,paypal
+T008,C007,P302,Laptop,Electronics,1,1299.99,1299.99,2024-06-19,credit_card
+T009,C009,P402,Summer Dress,Clothing,1,55.50,55.50,2024-06-21,credit_card
+T010,C010,P103,Wireless Mouse,Electronics,1,35.25,35.25,2024-06-17,debit_card
+T011,C003,P207,Machine Learning Book,Books,1,65.99,65.99,2024-06-01,credit_card
+T012,C011,P151,Phone Charger,Electronics,2,20.00,40.00,2024-06-23,paypal
+T013,C007,P403,Casual Pants,Clothing,1,75.80,75.80,2024-06-10,credit_card
+T014,C013,P303,Tablet,Electronics,1,449.99,449.99,2024-06-14,credit_card
+T015,C015,P208,Statistics Textbook,Books,1,89.95,89.95,2024-06-19,debit_card

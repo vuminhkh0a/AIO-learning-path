@@ -1,0 +1,20 @@
+2024-06-20 10:30:15 INFO [main] Starting e-commerce application v2.1.0
+2024-06-20 10:30:16 INFO [db] Database connection established: postgresql://localhost:5432/ecommerce
+2024-06-20 10:30:17 INFO [cache] Redis cache connected: localhost:6379
+2024-06-20 10:31:20 INFO [api] User C001 authenticated successfully
+2024-06-20 10:32:45 INFO [cart] Item P101 added to cart for user C001
+2024-06-20 10:35:10 INFO [checkout] Processing payment for order O001, amount: $150.00
+2024-06-20 10:35:12 INFO [payment] Payment successful: transaction_id=T001
+2024-06-20 10:40:55 WARN [security] Suspicious login attempt from IP 203.113.45.12
+2024-06-20 11:15:30 INFO [api] User C003 authenticated successfully
+2024-06-20 11:20:45 ERROR [payment] Payment failed for order O002: insufficient_funds
+2024-06-20 11:20:46 ERROR [payment] Payment processor timeout, order O002 marked as failed
+2024-06-20 11:25:15 INFO [profile] User C004 updated profile information
+2024-06-20 11:30:20 INFO [crawler] Search engine bot detected: Googlebot/2.1
+2024-06-20 11:35:40 INFO [search] Search query executed: "laptop", results: 45 items
+2024-06-20 12:10:15 INFO [api] API rate limit warning for IP 172.16.0.25: 95/100 requests
+2024-06-20 12:15:30 INFO [reviews] New review submitted for product P301, rating: 5 stars
+2024-06-20 12:20:45 WARN [security] Multiple failed login attempts from IP 203.113.45.12, blocking for 1 hour
+2024-06-20 12:25:10 INFO [contact] Contact form submitted by user C006
+2024-06-20 12:30:55 INFO [cart] Item P101 removed from cart for user C001
+2024-06-20 12:35:20 ERROR [inventory] Product P205 out of stock, order O003 cannot be fulfilled
